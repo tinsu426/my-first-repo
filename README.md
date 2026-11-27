@@ -69,21 +69,7 @@
 Here are some projects I've worked on and explored.
 
 ---
-
-### 🌐 01. Landing Page
-**Web Development | OIBSIP Internship**
-
-A landing page project focused on clean design, responsive layouts, and user experience.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-🔗 [**Explore Project →**](https://github.com/tinsu426/OIBSIP/tree/main/WebDev-L1-LandingPage)
-
----
-
-### 🍔 02. Food Delivery System
+### 🍔 01. Food Delivery System
 **Web Application | Food Ordering Platform**
 
 A food ordering system featuring menu browsing, shopping cart, checkout, and user authentication.
@@ -97,15 +83,32 @@ A food ordering system featuring menu browsing, shopping cart, checkout, and use
 🔗 [**Explore Project →**](https://github.com/tinsu426/food-delivery--system)
 
 ---
+### 🌐 02. Landing Page
+**Web Development | OIBSIP Internship**
+
+A landing page project focused on clean design, responsive layouts, and user experience.
+
+
+
+🔗 [**Explore Project →**](https://github.com/tinsu426/OIBSIP/tree/main/WebDev-L1-LandingPage)
+
+---
+
+
 
 ### 🤖 03. AI Hospital Queue & Patient Flow Manager
 **Artificial Intelligence | Healthcare Innovation**
 
 An AI-focused healthcare project designed to improve hospital queue management, patient flow, and healthcare service organization.
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=flat-square&logo=probot&logoColor=white)
-![Healthcare](https://img.shields.io/badge/Healthcare_AI-00A896?style=flat-square)
-![Innovation](https://img.shields.io/badge/Smart_Healthcare-0077B6?style=flat-square)
+<p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white" />
+      </p>
 
 🔗 [**Explore Project →**](https://github.com/tinsu426/AI-Hospital-Queue-Patient-Flow-Manager)
 
