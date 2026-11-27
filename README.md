@@ -63,61 +63,79 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-<h2>🚀 Featured Projects</h2>
+
+<h2 align="center">🚀 Featured Projects</h2>
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">💬 Real-Time Chat App</h3>
+    <!-- PROJECT 1 -->
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Landing Page</h3>
       <p align="center">
-        A full-stack messaging application with real-time communication.
+        A web development project focused on creating an attractive and well-structured landing page.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-        <br/><br/>
-        <a href="YOUR_CHAT_PROJECT_LINK">View Project →</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💰 Expense Tracker API</h3>
-      <p align="center">
-        A REST API for managing and tracking personal expenses.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-        <br/><br/>
-        <a href="YOUR_EXPENSE_PROJECT_LINK">View Project →</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">✅ TaskFlow</h3>
-      <p align="center">
-        A task management application for organizing daily activities.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-        <br/><br/>
-        <a href="YOUR_TASKFLOW_PROJECT_LINK">View Project →</a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/tinsu426/OIBSIP/tree/main/WebDev-L1-LandingPage">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🤖 CareFlow AI</h3>
+
+    <!-- PROJECT 2 -->
+    <td width="50%" valign="top">
+      <h3 align="center">🍔 Food Delivery System</h3>
       <p align="center">
-        An AI-powered concept for improving hospital queue management.
+        A food ordering web application with menu browsing, cart management, checkout, and user authentication.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=flat" />
-        <br/><br/>
-        <a href="YOUR_CAREFLOW_PROJECT_LINK">View Project →</a>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/tinsu426/food-delivery--system">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </p>
     </td>
   </tr>
+
+  <tr>
+    <!-- PROJECT 3 -->
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 CareFlow AI</h3>
+      <p align="center">
+        An AI-powered hospital queue and patient flow management system designed to improve hospital organization and patient services.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/tinsu426/AI-Hospital-Queue-Patient-Flow-Manager">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3 align="center">✨ More Projects Coming Soon</h3>
+      <p align="center">
+        Continuously learning, building, and exploring new technologies.
+      </p>
+    </td>
+  </tr>
+</table>
+
 </table>
