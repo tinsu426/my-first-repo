@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h2 align="center">👋 Hello, World! I'm Tinsae.</h2>
+<h2 align="center">👋 Hello,  I'm Tinsae.</h2>
 
 <h3 align="center">
   Software Engineering Student | Full-Stack Developer
