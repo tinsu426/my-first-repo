@@ -63,6 +63,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table>
@@ -71,7 +72,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🌐 Landing Page</h3>
       <p align="center">
-        A web development project focused on creating an attractive and well-structured landing page.
+        A responsive web landing page with an attractive design and structured layout.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -89,7 +90,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🍔 Food Delivery System</h3>
       <p align="center">
-        A food ordering web application with menu browsing, cart management, checkout, and user authentication.
+        A food ordering web application featuring menu browsing, cart management, checkout, and user authentication.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -109,17 +110,14 @@
   <tr>
     <!-- PROJECT 3 -->
     <td width="50%" valign="top">
-      <h3 align="center">🏥 CareFlow AI</h3>
+      <h3 align="center">🤖 CareFlow AI</h3>
       <p align="center">
-        An AI-powered hospital queue and patient flow management system designed to improve hospital organization and patient services.
+        An AI-powered hospital queue and patient flow management concept designed to improve hospital organization, reduce waiting times, and support better patient services.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-8A2BE2?style=flat&logo=probot&logoColor=white" />
+        <img src="https://img.shields.io/badge/HEALTHCARE_AI-00A896?style=flat" />
+        <img src="https://img.shields.io/badge/SMART_HEALTHCARE-0077B6?style=flat" />
       </p>
       <p align="center">
         <a href="https://github.com/tinsu426/AI-Hospital-Queue-Patient-Flow-Manager">
@@ -128,13 +126,12 @@
       </p>
     </td>
 
+    <!-- MORE PROJECTS -->
     <td width="50%" valign="top">
       <h3 align="center">✨ More Projects Coming Soon</h3>
       <p align="center">
-        Continuously learning, building, and exploring new technologies.
+        Exploring new technologies, building creative solutions, and continuously growing as a developer.
       </p>
     </td>
   </tr>
 </table>
-
-
