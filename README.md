@@ -38,7 +38,7 @@
   <a href="https://github.com/tinsu426">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="https://www.linkedin.com/in/tinsae-abebaw-9862273bb">
     <img src="https://www.linkedin.com/in/tinsae-abebaw-9862273bb?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
