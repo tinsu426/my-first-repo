@@ -62,3 +62,62 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
+<h2>🚀 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💬 Real-Time Chat App</h3>
+      <p align="center">
+        A full-stack messaging application with real-time communication.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+        <br/><br/>
+        <a href="YOUR_CHAT_PROJECT_LINK">View Project →</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💰 Expense Tracker API</h3>
+      <p align="center">
+        A REST API for managing and tracking personal expenses.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+        <br/><br/>
+        <a href="YOUR_EXPENSE_PROJECT_LINK">View Project →</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">✅ TaskFlow</h3>
+      <p align="center">
+        A task management application for organizing daily activities.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+        <br/><br/>
+        <a href="YOUR_TASKFLOW_PROJECT_LINK">View Project →</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 CareFlow AI</h3>
+      <p align="center">
+        An AI-powered concept for improving hospital queue management.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=flat" />
+        <br/><br/>
+        <a href="YOUR_CAREFLOW_PROJECT_LINK">View Project →</a>
+      </p>
+    </td>
+  </tr>
+</table>
