@@ -44,7 +44,7 @@
 </p>
 
 
-<h2>💻 Tech Stack:</h2>
+<h2>Tech Stack:</h2>
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -66,12 +66,12 @@
 </p>
 
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 Here are some projects I've worked on and explored.
 
 ---
-### 🍔 01. Food Delivery System
+###  01. Food Delivery System
 **Web Application | Food Ordering Platform**
 
 A food ordering system featuring menu browsing, shopping cart, checkout, and user authentication.
