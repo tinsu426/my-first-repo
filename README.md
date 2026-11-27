@@ -63,76 +63,54 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-<h2 align="center">🚀 Featured Projects</h2>
 
-<table>
-  <tr>
-    <!-- PROJECT 1 -->
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 Landing Page</h3>
-      <p align="center">
-        A responsive web landing page with an attractive design and structured layout.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/tinsu426/OIBSIP/tree/main/WebDev-L1-LandingPage">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
+## 🚀 Featured Projects
 
-    <!-- PROJECT 2 -->
-    <td width="50%" valign="top">
-      <h3 align="center">🍔 Food Delivery System</h3>
-      <p align="center">
-        A food ordering web application featuring menu browsing, cart management, checkout, and user authentication.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/tinsu426/food-delivery--system">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
+Here are some projects I've worked on and explored.
 
-  <tr>
-    <!-- PROJECT 3 -->
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 CareFlow AI</h3>
-      <p align="center">
-        An AI-powered hospital queue and patient flow management concept designed to improve hospital organization, reduce waiting times, and support better patient services.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-8A2BE2?style=flat&logo=probot&logoColor=white" />
-        <img src="https://img.shields.io/badge/HEALTHCARE_AI-00A896?style=flat" />
-        <img src="https://img.shields.io/badge/SMART_HEALTHCARE-0077B6?style=flat" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/tinsu426/AI-Hospital-Queue-Patient-Flow-Manager">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
+---
 
-    <!-- MORE PROJECTS -->
-    <td width="50%" valign="top">
-      <h3 align="center">✨ More Projects Coming Soon</h3>
-      <p align="center">
-        Exploring new technologies, building creative solutions, and continuously growing as a developer.
-      </p>
-    </td>
-  </tr>
-</table>
+### 🌐 01. Landing Page
+**Web Development | OIBSIP Internship**
 
+A landing page project focused on clean design, responsive layouts, and user experience.
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+🔗 [**Explore Project →**](https://github.com/tinsu426/OIBSIP/tree/main/WebDev-L1-LandingPage)
+
+---
+
+### 🍔 02. Food Delivery System
+**Web Application | Food Ordering Platform**
+
+A food ordering system featuring menu browsing, shopping cart, checkout, and user authentication.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+🔗 [**Explore Project →**](https://github.com/tinsu426/food-delivery--system)
+
+---
+
+### 🤖 03. AI Hospital Queue & Patient Flow Manager
+**Artificial Intelligence | Healthcare Innovation**
+
+An AI-focused healthcare project designed to improve hospital queue management, patient flow, and healthcare service organization.
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=flat-square&logo=probot&logoColor=white)
+![Healthcare](https://img.shields.io/badge/Healthcare_AI-00A896?style=flat-square)
+![Innovation](https://img.shields.io/badge/Smart_Healthcare-0077B6?style=flat-square)
+
+🔗 [**Explore Project →**](https://github.com/tinsu426/AI-Hospital-Queue-Patient-Flow-Manager)
+
+---
+
+<p align="center">
+  ✨ Always learning. Always building. Always exploring.
+</p>
