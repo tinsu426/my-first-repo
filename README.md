@@ -14,3 +14,20 @@
     <img src="https://img.shields.io/badge/ABOUT-ME-9be32d?style=for-the-badge&logo=readme&logoColor=black" />
   </a>
 </p>
+
+<h2 align="center">👋 Hello, World! I'm Tinsae.</h2>
+
+<h3 align="center">
+  Software Engineering Student | Full-Stack Developer
+</h3>
+
+<p align="center">
+  I'm passionate about building useful software,
+  solving real-world problems, and exploring new technologies.
+  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&pause=1000&color=159D8C&center=true&vCenter=true&width=750&lines=Exploring+Artificial+Intelligence;Building+Full-Stack+Applications;Learning+New+Technologies;Turning+Ideas+Into+Code;Always+Learning+and+Growing" />
+</p>
+
+  I enjoy learning, experimenting, and turning ideas into reality.
+</p>
