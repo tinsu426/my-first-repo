@@ -26,7 +26,7 @@
   solving real-world problems, and exploring new technologies.
   
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&pause=1000&color=159D8C&center=true&vCenter=true&width=750&lines=Exploring+Artificial+Intelligence;Building+Full-Stack+Applications;Learning+New+Technologies;Turning+Ideas+Into+Code;Always+Learning+and+Growing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&pause=1000&color=159D8C&center=true&vCenter=true&width=750&lines=Building+Full-Stack+Applications;Learning+New+Technologies;Turning+Ideas+Into+Code;Always+Learning+and+Growing" />
 </p>
 
   I enjoy learning, experimenting, and turning ideas into reality.
